@@ -18,10 +18,18 @@ The project leader (TA Wangjia) will approve your request. If you have not been 
 See the screenshot below. 
 <img width="1892" height="320" alt="image" src="https://github.com/user-attachments/assets/c5455e5e-4af3-410c-9223-c9e18e9d8751" />
 
-
 If you already have a CloudLab account, simply request to join the `uiuc-ssail-mlsys` project.
+
+## Use Pre-Set Experiments
+
+<img width="1900" height="362" alt="image" src="https://github.com/user-attachments/assets/9d6d934f-abf5-4ac5-9eb6-36c480aa5970" />
+
+We have already reserved and set up three clusters for this lab assignment, so you do not need to start an experiment.
+
+You can find the existing experiments under `My Experiments`. Select the correct cluster based on your last name (see details in hw1/README.md).
 
 ## Policies on Using CloudLab Resources
 1. The nodes you receive from CloudLab are real hardware machines sitting in different clusters. Therefore, we ask you not to hold the nodes for too long. CloudLab gives users 16 hours to start with, and users can extend it for a longer time. Manage your time efficiently and only hold onto those nodes when you are working on the assignment. You should use a private git repository to manage your code, and you must terminate the nodes when you are not using them. If you do have a need to extend the nodes, do not extend them by more than 1 day. **We will terminate any cluster running for more than 48 hours.**
 2. As a member of the `uiuc-ssail-mlsys` project, you have permissions to access another member's private user space. **Stick to your own space and do not access others' to peek at/copy/use their code, or intentionally/unintentionally overwriting files in others' workspaces.** For more information related to this, please refer to the [UIUC Sieber School Honor Code](https://siebelschool.illinois.edu/academics/honor-code). 
+
 
