@@ -1,4 +1,4 @@
-# CS 498: Machine Learning Systems (Spring 26)
+# CS 498: Machine Learning Systems (26 Spring)
 This is a lab assignment page for the course
 
 ## Lab Assignment 1 (Published)
@@ -15,3 +15,4 @@ This is a lab assignment page for the course
 
 ### **Acknowledgements**
 This github page alternates with Prof. Lai Fan's [CS 498](https://github.com/fanlai0990/CS498). Big thanks to Prof. Lai Fan and his TAs!
+
