@@ -8,6 +8,8 @@ This is a lab assignment page for the course
 2. Do the writing assignment (5 small Q&A questions), see the details in Assignment1_26spring.pdf
 3. Do the lab assignments following the Readme in hw1/
 
+The reference solution for Lab Assignment 1 has been uploaded in PDF format and can be used as a reference.
+
 ## Lab Assignment 2 (Published)
 1. All tasks are listed in lab2.ipynb.
 2. You can either download the notebook and complete it on your own device, or make a copy and work on it in Colab.
