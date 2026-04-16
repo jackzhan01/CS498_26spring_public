@@ -15,8 +15,11 @@ The reference solution for Lab Assignment 1 has been uploaded in PDF format and 
 2. You can either download the notebook and complete it on your own device, or make a copy and work on it in Colab.
    
 
-## Lab Assignment 3 (Unpublished)
+## Lab Assignment 3 (Published)
 
+1. All tasks are listed in lab3.ipynb.
+2. You can either download the notebook and complete it on your own device, or make a copy and work on it in Colab (GPU runtime recommended).
+3. Before starting, you are highly recommended to first read the original AWQ paper: Lin et al., [*AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration*](https://arxiv.org/pdf/2306.00978), MLSys 2024.
 
 
 
